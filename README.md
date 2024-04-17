@@ -2,6 +2,7 @@
 
 ## DATE: 
 
+
 ## AIM:
 
 ###   To determine & simulate the displacement & velocity analysis for the given four bar chain mechanism. 
@@ -53,10 +54,11 @@
 
 
 ## Output:
+![image](https://github.com/vinodhini-17/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/145742741/c3220e22-c15a-441e-aa27-d2074d503a99)
 
 
-### Name:
-### Register Number: 
+### Name: VINODHINI .K
+### Register Number: 22223230245
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
