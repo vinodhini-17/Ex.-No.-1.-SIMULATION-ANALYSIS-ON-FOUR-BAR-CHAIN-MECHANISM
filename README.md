@@ -16,7 +16,7 @@
 ###  ●	Processor: Minimum 1.5 GHz
 ###  ●	RAM: Minimum 512 MB
 ###  ●	Operating System: Windows XP, Windows Vista, Windows 7, Windows 8 or higher.
-###  ●	Dependencies: Microsoft .Net 2.0 framework
+###  ●	Dependencies: Microsoft .Net 2.0 framework.
 ###  ●	Mini Drafter.
 ###  ●	Geometry instruments.
 
