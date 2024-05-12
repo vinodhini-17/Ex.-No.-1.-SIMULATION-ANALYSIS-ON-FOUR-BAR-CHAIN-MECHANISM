@@ -42,7 +42,7 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/cb44fabe-6e16-4550-a2ec-4ee0f4cb6774)
 
 ###   1. First measure cd from velocity diagram  
-###   2. Now, Calculate VCd using the scale of the diagram 
+###   2. Now, Calculate VCd using the scale of the diagram .
 ###   3. Finally, calculate ωcd from the relation v = rω 
 ###   Thus, link CD revolves with ωcd = 4 rad/s (clockwise about D) 
 
