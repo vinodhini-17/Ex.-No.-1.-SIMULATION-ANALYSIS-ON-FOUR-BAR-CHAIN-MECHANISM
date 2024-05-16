@@ -21,7 +21,7 @@
 ###  ●	Geometry instruments.
 
 ## PROCEDURE:
-###   1. Draw a horizontal line AD of length 120 mm. 
+###   1. Draw a horizontal line AD of length 120 mm. .
 ###   2. At A, Draw a line AB of length 30 mm at an angle of 600 
 ###   3. With B as centre, BC = AD = 120mm draw an arc 
 ###   4. With D as centre, CD = 60 mm draw another arc 
